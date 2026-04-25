@@ -2,11 +2,11 @@
 
 Actualmente estoy estudiando *Ingeniería en Sistemas de Información*. Ha sido mi sueño desde siempre.
 
-Tengo muchos proyectos que me entusiasman, aunque la mayoría están en privado.
+Tengo algunos proyectos que me entusiasman, aunque la mayoría están en privado.
 
-He aprendido varios lenguajes, pero mis favoritos son **C#**, **Java** y **Python**.
+He aprendido varios lenguajes a lo largo de la carrera, mis favoritos son **C#**, **Java** y **Python**.
 
-Ahora mismo estoy experimentando con **React**. Es fácil de usar, aunque realmente no le entiendo mucho. :p
+Ahora mismo estoy aprendiendo **Kotlin** *(Gradle me va a volver loco)*.
 
 #### Otras cosas sobre mí
 - Cumplo años el 28 de agosto
