@@ -25,5 +25,5 @@ Ahora mismo estoy experimentando con **React**. Es fácil de usar, aunque realme
 </div>
 
 <p align="center">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199113458144&show_in_game_bg=true&show_recent_game_bg=true" width="400"/>
+    <img src="https://steam-card-for-github-readme.vercel.app/status/?steamid=76561199113458144&show_in_game_bg=true&show_recent_game_bg=true" width="400"/>
 </p>
